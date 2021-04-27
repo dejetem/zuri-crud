@@ -2,8 +2,10 @@
 
 ## Getting Started the first thing to do is to clone the repository:
 
+```bash
 $ git clone https://github.com/dejetem/zuri-crud.git
 $ cd zuri-crud
+```
 
 ## Create a virtual environment to install dependencies in and activate it:
 
@@ -25,7 +27,6 @@ Note the (env) in front of the prompt. This indicates that this terminal session
 ```bash
 (env)$ python manage.py runserver
 ```
-
 
 # Tests
 
