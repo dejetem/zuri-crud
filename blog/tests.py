@@ -15,7 +15,7 @@ class BlogTests(TestCase):
 
         self.post = Post.objects.create(
             title='test title',
-            body='test body ✈ 😻, this on point',
+            body='test body this on point',
             author=self.user
         )
 
